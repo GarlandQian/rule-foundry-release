@@ -1,0 +1,2 @@
++.aurora.web.telegram.org
++.pluto.web.telegram.org
