@@ -1,0 +1,5 @@
+domain_suffix_set:
+  - pluto.web.telegram.org
+  - aurora.web.telegram.org
+asn_set:
+  - "59930"
