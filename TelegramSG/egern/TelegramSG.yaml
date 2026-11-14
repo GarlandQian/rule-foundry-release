@@ -1,0 +1,5 @@
+domain_suffix_set:
+  - flora.web.telegram.org
+asn_set:
+  - "44907"
+  - "62014"

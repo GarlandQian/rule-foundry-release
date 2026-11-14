@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-KEYWORD,qiyi
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,tv.danmaku.bili

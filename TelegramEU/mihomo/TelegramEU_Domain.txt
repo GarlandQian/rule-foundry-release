@@ -1,0 +1,2 @@
++.venus.web.telegram.org
++.vesta.web.telegram.org
