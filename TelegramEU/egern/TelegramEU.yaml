@@ -1,0 +1,9 @@
+domain_suffix_set:
+  - venus.web.telegram.org
+  - vesta.web.telegram.org
+ip_cidr_set:
+  - 5.28.192.0/18
+  - 109.239.140.0/24
+asn_set:
+  - "62041"
+  - "211157"
